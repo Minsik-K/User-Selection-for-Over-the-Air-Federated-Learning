@@ -4,16 +4,17 @@
 
 *M. Kim, A.L. Swindlehurst and D. Park, "Beamforming Vector Design and Device Selection in Over-the-Air Federated Learning," submitted to IEEE Transactions on Wireless Communications.
 
+%If you use this code for your research, please cite our paper.
 
 # Software Versions
 
-** User selection algorithm & SVM Model **
-* Matlab R2021a
-* Communications Toolbox™
+**User selection algorithm & SVM Model
+*Matlab R2021a
+*Communications Toolbox™
 
-** MLP Model **
-* python 3.5.6
-* tensorflow-gpu 1.8.0
-* numpy 1.16.4
+**MLP Model
+*python 3.5.6
+*tensorflow-gpu 1.8.0
+*numpy 1.16.4
 
 
