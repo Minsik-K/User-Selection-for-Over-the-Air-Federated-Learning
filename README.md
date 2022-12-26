@@ -4,7 +4,6 @@
 
 *M. Kim, A.L. Swindlehurst and D. Park, "Beamforming Vector Design and Device Selection in Over-the-Air Federated Learning," submitted to IEEE Transactions on Wireless Communications.
 
-%If you use this code for your research, please cite our paper.
 
 # Software Versions
 
