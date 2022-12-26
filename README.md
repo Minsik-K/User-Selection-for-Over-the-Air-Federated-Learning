@@ -8,11 +8,11 @@
 
 # Software Versions
 
-## User selection algorithm & SVM Model
+** User selection algorithm & SVM Model **
 * Matlab R2021a
 * Communications Toolbox™
 
-## MLP Model
+** MLP Model **
 * python 3.5.6
 * tensorflow-gpu 1.8.0
 * numpy 1.16.4
