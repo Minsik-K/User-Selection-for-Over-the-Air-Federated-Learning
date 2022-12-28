@@ -7,11 +7,11 @@
 
 # Software Versions
 
-**User Selection Algorithm & SVM Model**
+**User Selection Algorithm & [SVM Model](http://yangkai.tech/publication.html)**
 * Matlab R2021a
 * Communications Toolbox™
 
-**MLP Model**
+**[MLP Model](https://github.com/shaoxiongji/federated-learning)**
 * python 3.5.6
 * tensorflow-gpu 1.8.0
 * numpy 1.16.4
