@@ -2,7 +2,7 @@
  
 **This repository contains the code for the paper:**
 
-*M. Kim, A.L. Swindlehurst and D. Park, "Beamforming Vector Design and Device Selection in Over-the-Air Federated Learning," submitted to IEEE Transactions on Wireless Communications.*
+*M. Kim, A.L. Swindlehurst, and D. Park, "Beamforming Vector Design and Device Selection in Over-the-Air Federated Learning," accepted in IEEE Transactions on Wireless Communications, 2023.* (https://ieeexplore.ieee.org/document/10064271)
 
 * This repository provide only the user selectioin algorithms in over-the-air federated learning.
 * Results related to learning can be obtained using the references below.
