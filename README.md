@@ -11,10 +11,11 @@
  
 * Results related to learning can be obtained using the references below.
 
-## Software Versi
+## Software Version
 
 **User Selection Algorithm & [SVM Model [1]](http://yangkai.tech/publication.html)**
 * Matlab R2021a
+* CVX
 * Communications Toolbox
 * Deep Learning Toolbox
 
