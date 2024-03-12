@@ -2,17 +2,21 @@
  
 **This repository contains the code for the paper:**
 
-*M. Kim, A.L. Swindlehurst, and D. Park, "Beamforming Vector Design and Device Selection in Over-the-Air Federated Learning," accepted in IEEE Transactions on Wireless Communications, 2023.* (https://ieeexplore.ieee.org/document/10064271)
+*M. Kim, A. Lee Swindlehurst, and D. Park, "Beamforming Vector Design and Device Selection in Over-the-Air Federated Learning," IEEE Transactions on Wireless Communications, vol. 22, no. 11, pp. 7464-7477, Nov. 2023.* (https://ieeexplore.ieee.org/document/10064271)
 
-* This repository provide only the user selectioin algorithms in over-the-air federated learning.
+* This repository provides only the user selection algorithms in over-the-air federated learning.
+* The following papers are based on this code.
+
+*M. Kim and D. Park, "Joint Beamforming and Learning Rate Optimization for Over-the-Air Federated Learning," IEEE Transactions on Vehicular Technology, vol. 72, no. 10, pp. 13706-13711, Oct. 2023.* (https://ieeexplore.ieee.org/document/10125042)
+ 
 * Results related to learning can be obtained using the references below.
 
 ## Software Versi
 
 **User Selection Algorithm & [SVM Model [1]](http://yangkai.tech/publication.html)**
 * Matlab R2021a
-* Communications Toolbox??
-* Deep Learning Toolbox??
+* Communications Toolbox
+* Deep Learning Toolbox
 
 **[MLP Model [2][3]](https://github.com/shaoxiongji/federated-learning)**
 * python $\geq 3.6$
